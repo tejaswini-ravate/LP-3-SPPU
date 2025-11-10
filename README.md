@@ -1,2 +1,9 @@
 # LP-3-SPPU
-Here You get LP-3 Code of SPPU for (DAA, ML and BT)
+
+This repository contains the practical code for LP-3 subjects of SPPU:
+
+DAA (Design and Analysis of Algorithms)
+
+ML (Machine Learning)
+
+BT (Blockchain Technology)
